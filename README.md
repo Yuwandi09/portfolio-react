@@ -1,16 +1,116 @@
-# React + Vite
+# Yuwandi Sandanayake — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built with **React** and **Vite**, showcasing my skills, projects, and background as a Software Engineering Undergraduate at the University of Kelaniya, Sri Lanka.
 
-Currently, two official plugins are available:
+🌐 **Live Site:** [https://Yuwandi09.github.io/portfolio-react/](https://Yuwandi09.github.io/portfolio-react/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📸 Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Portfolio Preview](public/assets/img/yuwandi-profile.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- ⚡ Built with React + Vite
+- 🎨 Same design as original HTML portfolio
+- ✍️ Typing animation using Typed.js
+- 🔄 Smooth scrolling navigation
+- 💡 Active nav highlighting on scroll
+- 📱 Fully responsive with mobile hamburger menu
+- 🗂️ Portfolio filter (All, Web Clone, Game)
+- 📄 Download CV button
+- ✉️ Contact form powered by Formspree
+- 🔝 Back to top button
+
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Typed.js](https://mattboldt.com/demos/typed-js/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Bootstrap 4](https://getbootstrap.com/)
+- [Formspree](https://formspree.io/)
+- [GitHub Pages](https://pages.github.com/)
+
+---
+
+## 📁 Project Structure
+
+```
+portfolio-react/
+├── public/
+│   ├── assets/
+│   │   └── img/
+│   │       ├── yuwandi-profile.png
+│   │       └── portfolio/
+│   │           ├── portfolio-1.png
+│   │           ├── portfolio-2.png
+│   │           └── portfolio-3.png
+│   └── Yuwandi-CV.pdf
+├── src/
+│   ├── components/
+│   │   ├── Sidebar.jsx
+│   │   ├── Hero.jsx
+│   │   ├── About.jsx
+│   │   ├── Skills.jsx
+│   │   ├── Portfolio.jsx
+│   │   ├── Resume.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Footer.jsx
+│   │   └── BackToTop.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   └── main.jsx
+├── index.html
+├── vite.config.js
+└── package.json
+```
+
+---
+
+## 💻 Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/Yuwandi09/portfolio-react.git
+
+# Go into the project folder
+cd portfolio-react
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+Open [http://localhost:5174](http://localhost:5174) in your browser.
+
+---
+
+## 🚢 Deploy
+
+```bash
+npm run deploy
+```
+
+This builds the project and deploys it to the `gh-pages` branch on GitHub Pages.
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [yuwandisandanayake@gmail.com](mailto:yuwandisandanayake@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/yuwandi](https://www.linkedin.com/in/yuwandi)
+- 🐙 GitHub: [github.com/Yuwandi09](https://github.com/Yuwandi09)
+
+---
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).

@@ -8,7 +8,7 @@ A personal portfolio website built with **React** and **Vite**, showcasing my sk
 
 ## 📸 Preview
 
-![Portfolio Preview](public/assets/img/yuwandi-profile.png)
+![Portfolio Preview](public/assets/img/portfolio-pic.png)
 
 ---
 

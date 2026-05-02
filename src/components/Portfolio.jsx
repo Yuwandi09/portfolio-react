@@ -11,7 +11,7 @@ function Portfolio() {
       title: 'Amazon Clone',
       description: 'Amazon web clone design using HTML & CSS',
       category: 'web',
-      image: '/assets/img/portfolio/portfolio-1.png',
+      image: '/portfolio-react/assets/img/portfolio/portfolio-1.png',
       link: 'https://github.com/Yuwandi09/amazon-clone'
     },
     {
@@ -19,7 +19,7 @@ function Portfolio() {
       title: 'YouTube Clone',
       description: 'YouTube frontend UI clone using HTML and CSS',
       category: 'web',
-      image: '/assets/img/portfolio/portfolio-2.png',
+      image: '/portfolio-react/assets/img/portfolio/portfolio-2.png',
       link: 'https://github.com/Yuwandi09/Youtube-clone'
     },
     {
@@ -27,7 +27,7 @@ function Portfolio() {
       title: '2D Game',
       description: 'A 2D game project built from scratch',
       category: 'game',
-      image: '/assets/img/portfolio/portfolio-3.png',
+      image: '/portfolio-react/assets/img/portfolio/portfolio-3.png',
       link: 'https://github.com/Yuwandi09/2D-Game'
     },
   ]

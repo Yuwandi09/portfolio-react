@@ -12,7 +12,7 @@ function About(){
 
         <div className="row about-me-row">
           <div className="col-lg-4">
-            <img src="/assets/img/yuwandi-profile.png" className="img-fluid" alt="Yuwandi" />
+            <img src="/portfolio-react/assets/img/yuwandi-profile.png" className="img-fluid" alt="Yuwandi" />
           </div>
           <div className="col-lg-8 content">
             <h3>Software Engineering Undergraduate</h3>

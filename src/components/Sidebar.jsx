@@ -55,7 +55,7 @@ return (
       <header id="header">
       <div>
         <div className="profile">
-          <img src="/assets/img/yuwandi-profile.png" alt="profile" />
+          <img src="/portfolio-react/assets/img/yuwandi-profile.png" alt="profile" />
           <h1><a href="/">Yuwandi Sandanayake</a></h1>
           <div className="social-links mt-3 text-center">
             <a href="https://www.linkedin.com/in/yuwandi/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
